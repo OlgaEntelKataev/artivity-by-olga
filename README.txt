@@ -1,0 +1,1 @@
+חלצי את ה-ZIP ולחצי פעמיים על index.html. לפרסום ב-GitHub Pages העלי את index.html ואת תיקיית assets.
